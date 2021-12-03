@@ -3,7 +3,7 @@
 The purpose is to help create the PlanMyTrip app for potential travelers using APIs from OpenWeatherMap and Google Maps. Travelers will be able make a their travel itineray based on weather preferences.
 
 ## Resources
-- Data Source:
+- Data Source: cities.csv
 - Software: Anaconda, Jupyter Notebook, APIs (Google Maps, OpenWeather)
 
 ## Results
